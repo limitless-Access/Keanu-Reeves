@@ -1,0 +1,1 @@
+Public pages have a functional Google Translate dropdown with 80+ languages. Selection translates the current page and is remembered for one year using cookies. Admin is excluded.
